@@ -30,7 +30,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         <td>I joined EPFL as Assistant Doctorant with EDIC Ph.D. fellowship  </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[July 2018]</strong></td>
+        <td valign="top"><strong>[Oct 2016]</strong></td>
         <td> Our paper on occlusion-aware optical flow estimating for image de-fencing is accepted at ECCV workshops, 2016
         </td>
     </tr>
