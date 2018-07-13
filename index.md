@@ -6,10 +6,6 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-Hi!
-
-
-
 I'm a first year PhD student at CVLab, Department of Computer Science, EPFL. I'm fortunate to be supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en) and [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en) in the areas of computer vision, deep learning.
 
 
