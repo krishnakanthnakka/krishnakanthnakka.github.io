@@ -27,7 +27,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2017]</strong></td>
-        <td>I joined EPFL as Assistant Doctorant with EDIC Ph.D. fellowship.  </td>
+        <td>I joined EPFL as Assistant Doctorant with EDIC Ph.D. fellowship  </td>
     </tr>
 </table>
 ----
