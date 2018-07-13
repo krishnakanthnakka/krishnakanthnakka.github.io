@@ -6,5 +6,5 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-I have recently started writing my thoughts down through this blog. :)
+I keep posting about articles, movies, people that touch my life on daily basis [here](https://krishnakanthnakka.github.io/contact/)
 
