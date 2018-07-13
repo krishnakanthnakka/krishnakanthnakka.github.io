@@ -31,7 +31,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2016]</strong></td>
-        <td> Our paper on occlusion-aware optical flow estimating for image de-fencing is accepted at ECCV workshops, 2016
+        <td> Our paper on occlusion-aware optical flow estimation for image de-fencing is accepted at ECCV workshops, 2016
         </td>
     </tr>
 </table>
