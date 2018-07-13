@@ -9,4 +9,25 @@ comments: false
 I'm a first year PhD student at CVLab, Department of Computer Science, EPFL. I'm fortunate to be supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en) and [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en) in the areas of computer vision, deep learning.
 
 
-Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years developing mobile camera algoirthms. I graduated from Department of Electrical Engineering in 2015 with Dual degree (MTech in Signal Processing and BTech in Electrical Engineering).   
+Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years developing mobile camera algorithms. I graduated from Department of Electrical Engineering in 2015 with Dual degree (MTech in Signal Processing and BTech in Electrical Engineering).   
+
+
+
+
+----
+
+<h3 align="center">News</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[July 2018]</strong></td>
+        <td> Our paper on attention-aware structured representation pooling is accepted at BMVC, 2018
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Sep 2017]</strong></td>
+        <td>I joined EPFL with EDIC Ph.D. fellowship.  </td>
+    </tr>
+</table>
+----
