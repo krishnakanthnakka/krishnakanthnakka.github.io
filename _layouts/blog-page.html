@@ -29,7 +29,7 @@
 {% endif %}
 
 <div id="main" role="main">
-  <div class="article-author-side" id="sticky-bio">
+  <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <article class="page">
@@ -38,6 +38,7 @@
       {{ content }}
       {% if page.share != false %}
         <hr />
+        {% include _social-share.html %}
       {% endif %}
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
