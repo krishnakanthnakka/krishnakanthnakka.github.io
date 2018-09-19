@@ -39,7 +39,10 @@ comments: false
 *Signal and Information Processing, GlobalSIP, 2014*
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/7032076/?reload=true)
 
-
+1. K.K. Nakka, Y.A. Tesiram, I.M. Brereton, M. Mobil, J.R. Harmer
+[Non-uniform sampling in EPR – optimizing data acquisition for HYSCORE spectroscopy]()
+*Physical Chemistry Chemical Physics, 16 (31) (2014), pp. 16378-16382*
+[<button type="button" class="btn btn-info">Paper</button>](https://pubs.rsc.org/en/content/articlepdf/2014/cp/c4cp02172j)
 
 
 -----
