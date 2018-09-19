@@ -34,8 +34,8 @@ comments: false
 
 1. Jonna S, **Nakka KK**, Sahay RR
 [Towards an Automated Image De-fencing Algorithm Using Sparsity]()
-
-[<button type="button" class="btn btn-info">Arxiv</button>]( Accepted at VISAPP 2015. Withdrawn due to funding reasons)
+*Accepted at VISAPP 2015. Withdrawn due to funding reasons*
+[<button type="button" class="btn btn-info">Arxiv</button>](https://arxiv.org/abs/1612.03273)
 #### Internships
 
 1. Ray N, Mukherjee S, **Nakka KK**, Acton ST, Blanker SS
