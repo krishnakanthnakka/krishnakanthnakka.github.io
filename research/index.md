@@ -24,7 +24,7 @@ comments: false
 1. Jonna S, **Nakka KK**, Sahay RR
 [My camera can see through fences: A deep learning approach for image de-fencing]()
 *Asian Conference on Pattern Recognition (ACPR), 2015*
-[<button type="button" class="btn btn-info">Paper</button>](http://ieeexplore.ieee.org/document/7486506/)
+[<button type="button" class="btn btn-info">Paper</button>](http://ieeexplore.ieee.org/document/7486506/) [<button type="button" class="btn btn-info">Poster</button>](/reports/ACPR2015.pdf)
 
 
 1. Jonna S, **Nakka KK**, Khasare VS, Sahay RR, Kankanhalli MS
