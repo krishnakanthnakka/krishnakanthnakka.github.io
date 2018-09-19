@@ -11,7 +11,7 @@ comments: false
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Deep Attentional Structured Representation Learning for Visual Recognition]()    
 *British Media Vision Conference (BMVC), 2018.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1805.05389)
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1805.05389)  [<button type="button" class="btn btn-info">Poster</button>](/reports/BMVC2018_Poster.pdf)
 
 
 1. Jonna S, **Nakka KK**, Sahay RR
