@@ -19,7 +19,7 @@ comments: false
 [Deep learning based fence segmentation and removal from an image using a video sequence]()
 **Oral Presentation**  
 *International Workshop on Video Segmentation, ECCV, 2016*
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1609.07727)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1609.07727) [<button type="button" class="btn btn-info">Slides</button>](/reports/ECCV2016.pdf)
 
 1. Jonna S, **Nakka KK**, Sahay RR
 [My camera can see through fences: A deep learning approach for image de-fencing]()
