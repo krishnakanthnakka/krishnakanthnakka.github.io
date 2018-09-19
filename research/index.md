@@ -32,7 +32,10 @@ comments: false
 *Journal of Optical Society of America(JOSA) A. 2016*
 [<button type="button" class="btn btn-info">Paper</button>](https://www.osapublishing.org/view_article.cfm?gotourl=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2FDirectPDFAccess%2F43771174-C5B1-AE75-62D3E6F37E3AA888_349746%2Fjosaa-33-10-1917%2Epdf%3Fda%3D1%26id%3D349746%26seq%3D0%26mobile%3Dno&org=Ecole%20Polytechnique%20Federale%20de%20Lausanne)
 
+1. Jonna S, **Nakka KK**, Sahay RR
+[Towards an Automated Image De-fencing Algorithm Using Sparsity]()
 
+[<button type="button" class="btn btn-info">Arxiv</button>]( Accepted at VISAPP 2015. Withdrawn due to funding reasons)
 #### Internships
 
 1. Ray N, Mukherjee S, **Nakka KK**, Acton ST, Blanker SS
