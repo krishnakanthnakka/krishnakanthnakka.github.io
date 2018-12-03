@@ -21,6 +21,11 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Nov 2018]</strong></td>
+        <td> Coming Soon! Preprint on Adversarial Attack Detection
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[July 2018]</strong></td>
         <td> Our paper on attention-aware structured representation pooling is accepted at BMVC, 2018
         </td>
