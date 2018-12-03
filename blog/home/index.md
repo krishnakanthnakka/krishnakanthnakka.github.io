@@ -1,6 +1,7 @@
 ---
 layout: page
 tags: [blog]
+title: Blog
 ---
 
 
