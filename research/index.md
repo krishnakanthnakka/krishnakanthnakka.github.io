@@ -6,6 +6,10 @@ modified:
 comments: false
 ---
 
+1. **Krishna Kanth Nakka**, Mathieu Salzmann
+[Interpretable BoW Networks for Adversarial Example Detection]()    
+[<button type="button" class="btn btn-info">Paper</button>](/reports/preprint_jan2019.pdf)  
+
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Deep Attentional Structured Representation Learning for Visual Recognition]()    
