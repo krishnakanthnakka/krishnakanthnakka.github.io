@@ -22,7 +22,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2019]</strong></td>
-        <td> Preprint on Adversarial Attack Detection [<button type="button" class="btn btn-info">Preprint</button>](/reports/preprint_jan2019.pdf) 
+        <td> Preprint on Adversarial Attack Detection available now
         </td>
     </tr>
     <tr>
