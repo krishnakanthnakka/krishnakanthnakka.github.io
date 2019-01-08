@@ -7,7 +7,7 @@ comments: false
 ---
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
-[Interpretable BoW Networks for Adversarial Example Detection]()[<button type="button" class="btn btn-info">Paper</button>](/reports/preprint_jan2019.pdf)  
+[Interpretable BoW Networks for Adversarial Example Detection]()  [<button type="button" class="btn btn-info">Paper</button>](/reports/preprint_jan2019.pdf)  
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
@@ -46,7 +46,7 @@ comments: false
 *Signal and Information Processing, GlobalSIP, 2014*
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/7032076/?reload=true)
 
-1. K.K. Nakka, Y.A. Tesiram, I.M. Brereton, M. Mobil, J.R. Harmer
+1. **K.K. Nakka**, Y.A. Tesiram, I.M. Brereton, M. Mobil, J.R. Harmer
 [Non-uniform sampling in EPR – optimizing data acquisition for HYSCORE spectroscopy]()
 *Royal Society of Chemistry, Physical Chemistry Chemical Physics, 16 (31) (2014), pp. 16378-16382*
 [<button type="button" class="btn btn-info">Paper</button>](https://pubs.rsc.org/en/content/articlepdf/2014/cp/c4cp02172j)
