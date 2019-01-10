@@ -7,7 +7,7 @@ comments: false
 ---
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
-[Interpretable BoW Networks for Adversarial Example Detection]()  [<button type="button" class="btn btn-info">Preprint</button>](/reports/preprint_jan2019.pdf)  
+[Interpretable BoW Networks for Adversarial Example Detection]()  [<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1901.02229)  
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
