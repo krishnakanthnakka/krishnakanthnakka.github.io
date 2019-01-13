@@ -41,3 +41,42 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
 </table>
 ----
+
+
+<h3 align="center">Affiliations</h3>
+<table align="center" class='affl-pic'>
+    <tr>
+        <td>
+            <a href="https://www.epfl.ch/schools/ic//">
+            <img src="/images/epfl_logo.png"></a>
+        </td>
+        <td>
+            <a href="http://www.iitkgp.ac.in//">
+            <img src="/images/kgp_logo.jpeg"></a>
+        </td>
+        <td>
+            <a href="https://www.philips.com/a-w/research/home.html/">
+            <img src="/images/philips_logo.jpeg"></a>
+        </td>
+        <td>
+            <a href="https://www.ualberta.ca/computing-science/">
+            <img src="/images/UA_logo.jpg"></a>
+        </td>
+        <td>
+            <a href="https://cai.centre.uq.edu.au//">
+            <img src="/images/UQ_logo.png"></a>
+        </td>
+        <td>
+            <a href="https://research.samsung.com//">
+            <img src="/images/samsung_logo.png"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>EPFL<br>2014-present</td>
+        <td>IIT Kharagpur<br>2010-2014</td>
+        <td>Philips Research<br>Summer 2013</td>
+        <td>University of Alberta<br>Summer 2014</td>
+        <td>University of Queensland<br>Winter 2013</td>
+        <td>Samsung Research<br>2015-17</td>
+    </tr>
+</table>
