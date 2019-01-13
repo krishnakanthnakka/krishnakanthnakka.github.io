@@ -79,9 +79,6 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
     </tr>
     <tr>
-        <td>EPFL<br>2017-present</td>
-        <td>IIT Kharagpur<br>2010-2015</td>
-        <td>Samsung Research<br>2015-17</td>
         <td>Philips Research<br>Summer 2013</td>
         <td>University of Alberta<br>Summer 2014</td>
         <td>University of Queensland<br>Winter 2013</td>
