@@ -64,7 +64,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
         <td>
             <a href="https://cai.centre.uq.edu.au//">
-            <img src="/images/UQ_logo.png"></a>
+            <img src="/images/UQ_logo.jpeg"></a>
         </td>
         <td>
             <a href="https://research.samsung.com//">
