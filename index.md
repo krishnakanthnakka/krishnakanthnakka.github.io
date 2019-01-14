@@ -66,10 +66,6 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
     </tr>   
         <td>
-            <a href="https://www.philips.com/a-w/research/home.html/">
-            <img src="/images/philips_logo.png"></a>
-        </td>
-        <td>
             <a href="https://www.ualberta.ca/computing-science/">
             <img src="/images/UA_logo.jpeg"></a>
         </td>
@@ -77,10 +73,14 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
             <a href="https://cai.centre.uq.edu.au//">
             <img src="/images/UQ_logo.jpeg"></a>
         </td>
+        <td>
+            <a href="https://www.philips.com/a-w/research/home.html/">
+            <img src="/images/philips_logo.png"></a>
+        </td>
     </tr>
-    <tr>
-        <td>Philips Research<br>Summer 2013</td>
+    <tr>       
         <td>University of Alberta<br>Summer 2014</td>
         <td>University of Queensland<br>Winter 2013</td>
+        <td>Philips Research<br>Summer 2013</td>
     </tr>
 </table>
