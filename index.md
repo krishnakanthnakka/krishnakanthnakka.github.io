@@ -50,19 +50,19 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
             <a href="https://www.epfl.ch/schools/ic//">
             <img src="/images/epfl_logo.png"></a>
         </td>
-        <td>
-            <a href="http://www.iitkgp.ac.in//">
-            <img src="/images/kgp_logo.png"></a>
-        </td>
-        <td>
+         <td>
             <a href="https://research.samsung.com//">
             <img src="/images/samsung_logo.png"></a>
         </td>
+        <td>
+            <a href="http://www.iitkgp.ac.in//">
+            <img src="/images/kgp_logo.png"></a>
+        </td>   
     <tr>
     <tr>
         <td>EPFL<br>2017-present</td>
-        <td>IIT Kharagpur<br>2010-2015</td>
         <td>Samsung Research<br>2015-17</td>
+        <td>IIT Kharagpur<br>2010-2015</td>
     </tr>
     </tr>   
         <td>
