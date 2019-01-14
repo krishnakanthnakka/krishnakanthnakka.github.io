@@ -75,7 +75,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
         <td>
             <a href="https://www.philips.com/a-w/research/home.html/">
-            <img src="/images/philips_logo.png"></a>
+            <img src="/images/philips.png"></a>
         </td>
     </tr>
     <tr>       
