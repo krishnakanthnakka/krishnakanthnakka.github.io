@@ -39,6 +39,7 @@ comments: false
 [Towards an Automated Image De-fencing Algorithm Using Sparsity]()
 *Accepted at VISAPP 2015. Withdrawn due to funding reasons*
 [<button type="button" class="btn btn-info">Arxiv</button>](https://arxiv.org/abs/1612.03273)
+
 #### Internships
 
 1. Ray N, Mukherjee S, **Nakka KK**, Acton ST, Blanker SS
