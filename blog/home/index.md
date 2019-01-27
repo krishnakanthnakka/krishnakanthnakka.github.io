@@ -5,9 +5,10 @@ title: Blog
 ---
 
 
-### Dec 2018
-* [Thank you BarandBench](https://barandbench.com/)
+### Jan 2019
 
 
-### Sep 2018
-* [Trip to London](https://www.lords.org/)
+![A Recognition Long Overdue](/images/sirivennela.jpg)
+{: .image-pull-right}
+
+
