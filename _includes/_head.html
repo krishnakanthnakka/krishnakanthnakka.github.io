@@ -11,6 +11,10 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 {% include _open-graph.html %}
 
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
