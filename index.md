@@ -20,6 +20,16 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+     <tr>
+        <td valign="top"><strong>[April 2019]</strong></td>
+        <td>  Characterising adversarial subspaces in Semantic Segmentation networks. [Soon]
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[March 2019]</strong></td>
+        <td> Preprint on anamoly detection in Semantic Segmentation. Joint work with Krzyzstof Lis
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Jan 2019]</strong></td>
         <td> Preprint on adversarial attack detection using interpretable BoW networks is available now
