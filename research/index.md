@@ -6,6 +6,11 @@ modified:
 comments: false
 ---
 
+
+1. Krzysztof Lis, **Krishna Nakka**, Pascal Fua, Mathieu Salzmann
+[Detecting the Unexpected via Image Resynthesis]()  [<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1904.07595)  
+
+
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Interpretable BoW Networks for Adversarial Example Detection]()  [<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1901.02229)  
 

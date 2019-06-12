@@ -26,8 +26,13 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
     </tr>
     <tr>
+        <td valign="top"><strong>[April 2019]</strong></td>
+        <td>  Interpretable CNNs  <span style="color:red">[Soon]</span>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[March 2019]</strong></td>
-        <td> Preprint on detecting anamolies from unknown classes in semantic segmentation networks. Joint work with Krzyzstof Lis <span style="color:red">[Soon]</span>
+        <td> Preprint on detecting anamolies from unknown classes in semantic segmentation networks. Joint work with Krzyzstof Lis <span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>
