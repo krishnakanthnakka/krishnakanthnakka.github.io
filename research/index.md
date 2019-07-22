@@ -9,7 +9,7 @@ comments: false
 
 1. Krzysztof Lis, **Krishna Nakka**, Pascal Fua, Mathieu Salzmann
 [Detecting the Unexpected via Image Resynthesis]()  
-*Internation Conference on Computer Vision (ICCV), 2019.*  
+*International Conference on Computer Vision (ICCV), 2019.*  
 [<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1904.07595)  
 
 
