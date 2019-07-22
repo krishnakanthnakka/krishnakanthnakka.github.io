@@ -21,6 +21,11 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="15%">
     <col width="85%">
      <tr>
+        <td valign="top"><strong>[July 2019]</strong></td>
+        <td> Paper accepted at ICCV 2019 on detecting anamolies in semantic segmentation. Joint work with Krzyzstof Lis <span style="color:red">[New]</span>
+        </td>
+    </tr>
+     <tr>
         <td valign="top"><strong>[June 2019]</strong></td>
         <td>  Characterising adversarial subspaces in Semantic Segmentation networks <span style="color:red">[Soon]</span>
         </td>
@@ -28,11 +33,6 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <tr>
         <td valign="top"><strong>[June 2019]</strong></td>
         <td>  Interpretable CNNs  <span style="color:red">[Soon]</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[March 2019]</strong></td>
-        <td> Preprint on detecting anamolies from unknown classes in semantic segmentation networks. Joint work with Krzyzstof Lis <span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>
