@@ -22,7 +22,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="85%">
      <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td> Paper on adversarial attack detection using Interpretable BoW networks is accepted at Explainable and Interpretable AI Workshop, ICCV 2019 
+        <td> Paper on adversarial attack detection using Interpretable BoW networks is accepted at Explainable and Interpretable AI Workshop, ICCV 2019 <span style="color:red">[New]</span>
         </td>
     </tr>
      <tr>
