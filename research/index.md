@@ -15,7 +15,7 @@ comments: false
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Interpretable BoW Networks for Adversarial Example Detection]()
-*ICCV 2019 workshop on Explaimable and Interpretable AI.*  
+*Explaimable and Interpretable AI workshop, ICCV 2019.*  
  [<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1901.02229)  
 
 
