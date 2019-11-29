@@ -22,7 +22,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="85%">
     <tr>
         <td valign="top"><strong>[June 2019]</strong></td>
-        <td>  Indirect local attacks for context-aware segmentation networks. <span style="color:red">[New]</span>
+        <td>  Our recent work on attacking scene segmentation networks with local indirect perturbations <span style="color:red">[New]</span>
         </td>
     </tr>
      <tr>
