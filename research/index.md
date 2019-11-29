@@ -14,13 +14,13 @@ comments: false
 1. Krzysztof Lis, **Krishna Nakka**, Pascal Fua, Mathieu Salzmann
 [Detecting the Unexpected via Image Resynthesis]()  
 *International Conference on Computer Vision (ICCV), 2019.*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1904.07595)  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1904.07595) [<button type="button" class="btn btn-info">Poster</button>](https://liskr.net/pub/DetectingTheUnexpected_Poster.pdf)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Interpretable BoW Networks for Adversarial Example Detection]()
-*Explaimable and Interpretable AI workshop, ICCV 2019.*  
-[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1901.02229)  
+*Explainable and Interpretable AI workshop, ICCV 2019.*  
+[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1901.02229)  [<button type="button" class="btn btn-info">Poster</button>](https://drive.google.com/open?id=1h1_4_ysrQvjooSmH-gE4EwGhvs9OsoIT) [<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/open?id=1Y7xBcOAUXR0gN9vEE7kfCTGWAqSANhME)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
