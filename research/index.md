@@ -6,6 +6,10 @@ modified:
 comments: false
 ---
 
+1. **Krishna Kanth Nakka**, Mathieu Salzmann
+[Indirect Local Attacks for Context-aware Semantic Segmentation Networks]()
+[<button type="button" class="btn btn-info">arXiv</button>](https://drive.google.com/open?id=1Rf4LAvSAWJFlepGgiNCXBHMV9VST0G-_)  
+
 
 1. Krzysztof Lis, **Krishna Nakka**, Pascal Fua, Mathieu Salzmann
 [Detecting the Unexpected via Image Resynthesis]()  

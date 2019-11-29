@@ -20,24 +20,19 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[June 2019]</strong></td>
+        <td>  Indirect local attacks for context-aware segmentation networks <span style="color:red">[New]</span>
+        </td>
+    </tr>
      <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td> Paper on adversarial attack detection using Interpretable BoW networks is accepted at Explainable and Interpretable AI Workshop, ICCV 2019 <span style="color:red">[New]</span>
+        <td> Paper on adversarial attack detection using Interpretable BoW networks is accepted at Explainable and Interpretable AI Workshop, ICCV 2019
         </td>
     </tr>
      <tr>
         <td valign="top"><strong>[July 2019]</strong></td>
-        <td> Paper accepted at ICCV 2019 on detecting anamolies in semantic segmentation. Joint work with Krzyzstof Lis <span style="color:red">[New]</span>
-        </td>
-    </tr>
-     <tr>
-        <td valign="top"><strong>[June 2019]</strong></td>
-        <td>  Characterising adversarial subspaces in Semantic Segmentation networks <span style="color:red">[Soon]</span>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[June 2019]</strong></td>
-        <td>  Interpretable CNNs  <span style="color:red">[Soon]</span>
+        <td> Paper accepted at ICCV 2019 on detecting anamolies in semantic segmentation. Joint work with Krzyzstof Lis
         </td>
     </tr>
     <tr>
