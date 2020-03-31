@@ -2,30 +2,36 @@
 layout: page
 title: Research
 tags: [research]
-modified: 
+modified:
 comments: false
 ---
 
+
+1. **Krishna Kanth Nakka**, Mathieu Salzmann
+[Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features]()
+[<button type="button" class="btn btn-info">arXiv</button>](https://drive.google.com/file/d/1KZeDlzBeXucGCJIr7HtuiBHxgS4eDhD_/view?usp=sharing)
+
+
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Indirect Local Attacks for Context-aware Semantic Segmentation Networks]()
-[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1911.13038)  
+[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/1911.13038)
 
 
 1. Krzysztof Lis, **Krishna Nakka**, Pascal Fua, Mathieu Salzmann
-[Detecting the Unexpected via Image Resynthesis]()  
-*International Conference on Computer Vision (ICCV), 2019.*  
+[Detecting the Unexpected via Image Resynthesis]()
+*International Conference on Computer Vision (ICCV), 2019.*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1904.07595) [<button type="button" class="btn btn-info">Poster</button>](https://liskr.net/pub/DetectingTheUnexpected_Poster.pdf)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Interpretable BoW Networks for Adversarial Example Detection]()
-*Explainable and Interpretable AI workshop, ICCV 2019.*  
+*Explainable and Interpretable AI workshop, ICCV 2019.*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1901.02229)  [<button type="button" class="btn btn-info">Poster</button>](https://drive.google.com/open?id=1h1_4_ysrQvjooSmH-gE4EwGhvs9OsoIT) [<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/open?id=1Y7xBcOAUXR0gN9vEE7kfCTGWAqSANhME)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
-[Deep Attentional Structured Representation Learning for Visual Recognition]()    
-*British Media Vision Conference (BMVC), 2018.*  
+[Deep Attentional Structured Representation Learning for Visual Recognition]()
+*British Media Vision Conference (BMVC), 2018.*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1805.05389)  [<button type="button" class="btn btn-info">Poster</button>](/reports/BMVC2018_Poster.pdf)
 
 #### Master Thesis
@@ -33,7 +39,7 @@ comments: false
 
 1. Jonna S, **Nakka KK**, Sahay RR
 [Deep learning based fence segmentation and removal from an image using a video sequence]()
-**Oral Presentation**  
+**Oral Presentation**
 *International Workshop on Video Segmentation, ECCV, 2016*
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1609.07727) [<button type="button" class="btn btn-info">Slides</button>](/reports/ECCV2016.pdf)
 

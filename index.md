@@ -9,7 +9,7 @@ comments: false
 I'm a PhD student at CVLab, Department of Computer Science, EPFL. I'm fortunate to be supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en) in the areas of computer vision, deep learning. My research focus is primarily to develop interpretable neural network architectures.
 
 
-Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years developing mobile camera algorithms. I graduated from Department of Electrical Engineering, IIT Kharagpur in 2015 with Dual degree (MTech in Signal Processing and BTech in Electrical Engineering).   
+Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years developing mobile camera algorithms. I graduated from Department of Electrical Engineering, IIT Kharagpur in 2015 with Dual degree (MTech in Signal Processing and BTech in Electrical Engineering).
 
 
 
@@ -21,8 +21,8 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="15%">
     <col width="85%">
      <tr>
-        <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>  Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features<span style="color:red">[Soon]</span>
+        <td valign="top"><strong>[March 2020]</strong></td>
+        <td>  Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features<span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>
@@ -72,14 +72,14 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         <td>
             <a href="http://www.iitkgp.ac.in//">
             <img src="/images/kgp_logo.png"></a>
-        </td>   
+        </td>
     <tr>
     <tr>
         <td>EPFL<br>2017-present</td>
         <td>Samsung Research<br>2015-17</td>
         <td>IIT Kharagpur<br>2010-2015</td>
     </tr>
-    </tr>   
+    </tr>
         <td>
             <a href="https://www.ualberta.ca/computing-science/">
             <img src="/images/UA_logo.jpeg"></a>
@@ -93,7 +93,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
             <img src="/images/philips.png"></a>
         </td>
     </tr>
-    <tr>       
+    <tr>
         <td>University of Alberta<br>Summer 2014</td>
         <td>University of Queensland<br>Winter 2013</td>
         <td>Philips Research<br>Summer 2013</td>
