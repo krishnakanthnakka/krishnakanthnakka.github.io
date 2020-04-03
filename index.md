@@ -22,7 +22,12 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="85%">
      <tr>
         <td valign="top"><strong>[March 2020]</strong></td>
-        <td>  Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features<span style="color:red">[New]</span>
+        <td>  A novel layer that encodes dependencies between the pixel and contextual object regions to defend patch attacks in semantic segmentation <span style="color:red">[Soon]</span>
+        </td>
+    </tr>
+     <tr>
+        <td valign="top"><strong>[March 2020]</strong></td>
+        <td>  Preprint on Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is available<span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>
