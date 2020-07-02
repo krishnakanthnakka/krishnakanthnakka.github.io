@@ -32,12 +32,12 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
      <tr>
         <td valign="top"><strong>[March 2020]</strong></td>
-        <td>  Preprint on Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is available<span style="color:red">[New]</span>
+        <td>  Preprint on Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is available
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>  Our recent work on attacking scene segmentation networks with local indirect perturbations is available<span style="color:red">[New]</span>
+        <td>  Our recent work on attacking scene segmentation networks with local indirect perturbations is available
         </td>
     </tr>
      <tr>
