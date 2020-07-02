@@ -21,6 +21,11 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     <col width="15%">
     <col width="85%">
      <tr>
+        <td valign="top"><strong>[July 2020]</strong></td>
+        <td>  Our work on indirect local attacks on segmentation networks is accepted at ECCV 2020 as spotlight (top 5%)<span style="color:red">[New]</span>
+        </td>
+    </tr>
+     <tr>
         <td valign="top"><strong>[April 2020]</strong></td>
         <td>  A novel layer that encodes dependencies between the pixel and contextual object regions to defend patch attacks in semantic segmentation <span style="color:red">[Soon]</span>
         </td>
