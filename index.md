@@ -21,6 +21,11 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[April 2020]</strong></td>
+        <td>  One Shot and Efficient Adversarial Attacks for Object Trackers <span style="color:red">[Soon]</span>
+        </td>
+    </tr>
      <tr>
         <td valign="top"><strong>[July 2020]</strong></td>
         <td>  Our work on indirect local attacks on segmentation networks is accepted at ECCV 2020 as spotlight (top 5%)<span style="color:red">[New]</span>
