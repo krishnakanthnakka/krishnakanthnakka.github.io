@@ -22,7 +22,7 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[April 2020]</strong></td>
+        <td valign="top"><strong>[August 2020]</strong></td>
         <td>  One Shot and Efficient Adversarial Attacks for Object Trackers <span style="color:red">[Soon]</span>
         </td>
     </tr>
