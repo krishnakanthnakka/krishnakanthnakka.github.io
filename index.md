@@ -22,23 +22,23 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[March 2020]</strong></td>
+        <td>  Our work on Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is  accepted at ACCV 2020 <span style="color:red">[New]</span>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[August 2020]</strong></td>
         <td>  One Shot and Efficient Adversarial Attacks for Object Trackers <span style="color:red">[Soon]</span>
         </td>
     </tr>
      <tr>
         <td valign="top"><strong>[July 2020]</strong></td>
-        <td>  Our work on indirect local attacks on segmentation networks is accepted at ECCV 2020 as spotlight (top 5%)<span style="color:red">[New]</span>
+        <td>  Our work on indirect local attacks on segmentation networks is accepted at ECCV 2020 as spotlight (top 5%)
         </td>
     </tr>
      <tr>
         <td valign="top"><strong>[April 2020]</strong></td>
         <td>  A novel layer that encodes dependencies between the pixel and contextual object regions to defend patch attacks in semantic segmentation <span style="color:red">[Soon]</span>
-        </td>
-    </tr>
-     <tr>
-        <td valign="top"><strong>[March 2020]</strong></td>
-        <td>  Preprint on Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is available
         </td>
     </tr>
     <tr>
