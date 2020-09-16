@@ -9,8 +9,8 @@ comments: false
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features]()
-[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/2006.06028)
 *Asian Conference on Computer Vision (ACCV), 2020.*
+[<button type="button" class="btn btn-info">arXiv</button>](https://arxiv.org/abs/2006.06028)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
