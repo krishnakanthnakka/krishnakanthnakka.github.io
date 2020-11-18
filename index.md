@@ -28,7 +28,7 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2020]</strong></td>
-        <td>  Our work on Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is  accepted at ACCV 2020 =
+        <td>  Our work on Robust Fine-grained Recognition by Maximal Separation of Discriminative Features is  accepted at ACCV 2020
         </td>
     </tr>
      <tr>
