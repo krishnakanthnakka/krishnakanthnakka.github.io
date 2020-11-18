@@ -12,7 +12,7 @@ comments: false
 [Temporally-Transferable Perturbations: Efficient, One-Shot Adversarial Attacks
 for Online Visual Object Trackers]()
 *Preprint 2020*
-[<button type="button" class="btn btn-info">Paper</button>](./reports/Draft.pdf))
+[<button type="button" class="btn btn-info">Paper</button>](/reports/Draft.pdf)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
