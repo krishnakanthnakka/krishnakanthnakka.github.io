@@ -7,6 +7,14 @@ comments: false
 ---
 
 
+
+1. **Krishna Kanth Nakka**, Mathieu Salzmann
+[Temporally-Transferable Perturbations: Efficient, One-Shot Adversarial Attacks
+for Online Visual Object Trackers]()
+*Preprint 2020*
+[<button type="button" class="btn btn-info">Paper</button>](./reports/Draft.pdf))
+
+
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Towards Robust Fine-grained Recognition by Maximal Separation of Discriminative Features]()
 *Asian Conference on Computer Vision (ACCV), 2020.*
