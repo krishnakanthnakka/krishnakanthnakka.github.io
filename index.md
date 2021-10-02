@@ -22,13 +22,13 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[May 2021]</strong></td>
-        <td>  Preprint on Generating Cross-Domain and Cross-Task Transferable Adversarial Perturbations <span style="color:red">[New]</span>
+        <td valign="top"><strong>[Sep 2021]</strong></td>
+        <td>  Our work on Generating Cross-Domain and Cross-Task Transferable Adversarial Perturbations is accepted at NeurIPS 2021<span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[November 2020]</strong></td>
-        <td>  Preprint on One-Shot  Adversarial Attacks for Online Visual Object Trackers <span style="color:red">[New]</span>
+        <td valign="top"><strong>[Aug 2021]</strong></td>
+        <td>  Preprint on Universal, Transferaable  Adversarial Perturbations for Online Visual Object Trackers <span style="color:red">[New]</span>
         </td>
     </tr>
     <tr>

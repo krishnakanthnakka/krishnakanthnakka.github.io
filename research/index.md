@@ -8,14 +8,13 @@ comments: false
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Learning Transferable Adversarial Perturbations]()
-*Preprint 2021*
+*NeurIPS 2021*
 [<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1h0Yh2TYxNMTnnuo9hG9zqXg15fgVrfbc/view)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
-[Temporally-Transferable Perturbations: Efficient, One-Shot Adversarial Attacks
-for Online Visual Object Trackers]()
-*Preprint 2020*
+[Universal, Transferable Adversarial Perturbations for Online Visual Object Trackers]()
+*Preprint 2021*
 [<button type="button" class="btn btn-info">Paper</button>](/reports/Draft.pdf)
 
 
