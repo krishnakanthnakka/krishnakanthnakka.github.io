@@ -26,7 +26,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Marc 2022]</strong></td>
+        <td valign="top"><strong>[March 2022]</strong></td>
         <td>  New work on understanding the disentanglement of pose and appearance from adversarial attack perspective
         </td>
     </tr>
