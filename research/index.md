@@ -13,7 +13,7 @@ Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Learning Transferable Adversarial Perturbations]()
-* Neural Information and Processing Systems (NeurIPS), 2021*
+*Neural Information and Processing Systems (NeurIPS), 2021*
 [<button type="button" class="btn btn-info">Paper</button>](https://proceedings.neurips.cc/paper/2021/hash/7486cef2522ee03547cfb970a404a874-Abstract.html)
 
 
