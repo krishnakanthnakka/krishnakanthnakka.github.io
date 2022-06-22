@@ -21,6 +21,11 @@ Please email me if you would like to pursue a semester project at EPFL. Please t
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+     <tr>
+        <td valign="top"><strong>[June 2022]</strong></td>
+        <td>  Successfully defended my PhD defense on understanding the deep neural networks using adversarial attacks
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
         <td>  Our work on Generating Cross-Domain and Cross-Task Transferable Adversarial Perturbations is accepted at NeurIPS 2021 <span style="color:red">[New]</span>
