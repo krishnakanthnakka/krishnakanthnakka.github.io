@@ -26,12 +26,12 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
-        <td>  Our work on Generating Cross-Domain and Cross-Task Transferable Adversarial Perturbations is accepted at NeurIPS 2021 <span style="color:red">[New]</span>
+        <td>  Our work on Generating Cross-Domain and Cross-Task Transferable Adversarial Perturbations is accepted at NeurIPS 2021
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2021]</strong></td>
-        <td>  Preprint on Universal, Transferaable  Adversarial Perturbations for Online Visual Object Trackers <span style="color:red">[New]</span>
+        <td>  Preprint on Universal, Transferaable  Adversarial Perturbations for Online Visual Object Trackers
         </td>
     </tr>
     <tr>
