@@ -7,6 +7,7 @@ comments: false
 ---
 
 I'm a PhD student at CVLab, Department of Computer Science, EPFL. I'm fortunate to be supervised by [Dr. Mathieu Salzmann](https://people.epfl.ch/cgi-bin/people?id=119864&op=bio&lang=en&cvlang=en)  and Dr. Pascal Fua in the areas of computer vision, deep learning. My research focus is to understand the strengths and weaknesses of deep neural networks in safety and security-critical applications.
+My PhD thesis explores the topics of interpretability, transfer-based black-box attacks, attack detection, adversarial defenses, anomaly detection, and disentangled representations.
 
 Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years developing mobile camera algorithms. Prior to that, I graduated from Department of Electrical Engineering, IIT Kharagpur in 2015 with Dual degree (MTech in Signal Processing and BTech in Electrical Engineering).
 
@@ -25,7 +26,7 @@ Before joining EPFL, I was employed at Samsung Research Bangalore for 2 years de
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[June 2022]</strong></td>
+        <td valign="top"><strong>[Marc 2022]</strong></td>
         <td>  New work on understanding the disentanglement of pose and appearance from adversarial attack perspective
         </td>
     </tr>
