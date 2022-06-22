@@ -7,15 +7,20 @@ comments: false
 ---
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
+Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation
+*Preprint 2022*
+
+
+1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Learning Transferable Adversarial Perturbations]()
 *NeurIPS 2021*
-[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1h0Yh2TYxNMTnnuo9hG9zqXg15fgVrfbc/view)
+[<button type="button" class="btn btn-info">Paper</button>](https://proceedings.neurips.cc/paper/2021/hash/7486cef2522ee03547cfb970a404a874-Abstract.html)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
 [Universal, Transferable Adversarial Perturbations for Online Visual Object Trackers]()
 *Preprint 2021*
-[<button type="button" class="btn btn-info">Paper</button>](/reports/Draft.pdf)
+[<button type="button" class="btn btn-info">Paper</button>](/reports/pami.pdf)
 
 
 1. **Krishna Kanth Nakka**, Mathieu Salzmann
